@@ -1,0 +1,11 @@
+{
+  "name": "claudiu-cristea/say-hello",
+  "require": {
+    "drush/drush": "^10.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Say\\Hello\\": "src"
+    }
+  }
+}
