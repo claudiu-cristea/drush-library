@@ -1,5 +1,6 @@
 {
   "name": "claudiu-cristea/say-hello",
+  "license": "GPL-2.0-or-later",
   "require": {
     "drush/drush": "^10.5"
   },
