@@ -3,7 +3,6 @@ name: Solution 1
 url: http://example.com/vendor/solution1
 softwareVersion: '1.0.0.0'
 releaseDate: "2023-07-07"
-logo: images/the-logo.svg
 platforms:
   - web
 categories:
