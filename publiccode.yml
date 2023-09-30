@@ -1,6 +1,7 @@
 publiccodeYmlVersion: "0.2"
 name: Solution 1
 url: http://example.com/vendor/solution1
+logo: images/screenshot.png
 softwareVersion: '1.0.0.0'
 releaseDate: "2023-07-07"
 platforms:
